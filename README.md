@@ -19,7 +19,7 @@ We will use this algorithm to detect faces, eyes or smile and put fun face filte
 
 Haar Cascade step by step here: http://www.willberger.org/cascade-haar-explained/
 
-This is an algorithm after Deep Learning Maybe it isn't the best but to task is a solution. 
+This is an algorithm after Deep Learning Maybe it isn't the best but to simple tasks is a solution. 
 OpenCV libray has a CascadeClassifier moudule and has too xml file to detect eyes, faces, smiles, body... We will use this library to this project.
 
 Initialize CascadeClassifier with:
@@ -53,4 +53,6 @@ Overlay is a tecnique to combine two images from two differnt file. So, we detec
  We will transfrom our image to RGB or BGR in openCV
   
   **cv2.cvtColor(image, cv2.COLOR_BGRA2BGR)**
+
+I accept suggestions ..
   
