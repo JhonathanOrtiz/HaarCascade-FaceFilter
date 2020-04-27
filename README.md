@@ -24,7 +24,7 @@ OpenCV libray has a CascadeClassifier moudule and has too xml file to detect eye
 
 Initialize CascadeClassifier with:
 
-  **Classifier cv2.CascadeClassifier(xml_file)**
+  **Classifier = cv2.CascadeClassifier(xml_file)**
   
 Objetect detect:
 
