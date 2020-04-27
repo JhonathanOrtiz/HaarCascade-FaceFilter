@@ -46,7 +46,7 @@ Overlay is a tecnique to combine two images from two differnt file. So, we detec
 
   **cv2.cvtColor(image, cv2.COLOR_BGR2BGRA)**
   
- but before apply:
+ but after to apply:
   
   **cv2.imshow('frame', frame)**
   
